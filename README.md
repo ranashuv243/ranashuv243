@@ -39,6 +39,7 @@
 - another email:ranashuv243@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sohan-r-54729a184/
 - GitHub: https://github.com/ranashuv243
+- Portfolio : https://ranashuv243.github.io/sohan-portfolio/
 
 ## ⚡ Fun Fact
 I love reading books, writing stories, and exploring new technologies!
